@@ -1,2 +1,2 @@
-# Calculator-GUI-at-Tkinter
-GUI of Calculator at Tkinter using Python
+# Calculator-&-Namaz-Clock-GUI-at-Tkinter
+GUI of Calculator and Namaz Clock at Tkinter using Python
